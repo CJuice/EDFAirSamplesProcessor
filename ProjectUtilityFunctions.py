@@ -1,7 +1,7 @@
 
 ###################################
 # Script:  ProjectUtilityFunctions.py
-# Author:  Conrad Schaefer
+# Author:  CJuice
 # Date Created:  09/25/2017
 # Purpose:  Build utility functions and store in a class for use elsewhere
 # Inputs:
